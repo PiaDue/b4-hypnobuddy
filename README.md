@@ -1,5 +1,10 @@
 # B4: Hypnobuddy
 
+[About our Project](https://showtime.f4.htw-berlin.de/ws23/bachelor/b4-hypnobuddy/)
+
+[Visit Hypnobuddy](https://hypnobuddy-810a4.web.app)
+<sub>Please note that for testing purposes you can only create a patient account with limited functionality</sub>
+
 ## Description
 
 Hypnobuddy is a web application built with Node.js, TypeScript, MongoDB, Jest, Vite, React, Bootstrap, and SCSS. 
